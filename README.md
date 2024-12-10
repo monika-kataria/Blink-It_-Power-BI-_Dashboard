@@ -8,3 +8,7 @@ This Power BI project aims to analyze Blink It’s delivery data, focusing on:
 - Performance comparisons across different regions
 ## 🔧 **Tools Used**
 - **Power BI**: For creating interactive dashboards and visualizations.
+# 🛠️ **How to Use This Project**
+1. **Download the .pbix file**: [Download Blink It PBIX File]()
+2. **Open the file in Power BI Desktop** to explore the interactive visualizations.
+3. **Use filters**: Explore the data by applying filters for regions, time periods, and other dimensions in the Power BI dashboard.
